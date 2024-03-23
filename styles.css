@@ -1,4 +1,13 @@
-h1 {color:red;}
-h1 {padding: 25px 25px 25px 25px;}
-span {color: green;}
-.purple_rain {color: purple;}
+body{
+    background:white;
+}
+
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}                              /* this is the thing for having sections stacked and covering all the width */
+
+.about-me{
+    background: orange;
+}
